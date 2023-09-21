@@ -1,0 +1,7 @@
+config,R2(mlr),R2(svr),R2(ann),RMSE(mlr),RMSE(svr),RMSE(ann),input,output
+bands_row,0.335,0.523,0.52,0.139,0.118,0.12,B01-B02-B03-B04-B05-B06-B07-B08-B8A-B09-B11-B12,som
+R20m_bands_row,0.324,0.515,0.0,0.14,0.119,0.0,B01-B02-B03-B04-B05-B06-B07-B8A-B11-B12,som
+R20m_R10m_bands_row,0.337,0.517,0.0,0.139,0.118,0.0,B01-B02-B03-B04-B05-B06-B07-B8A-B11-B12-B08,som
+R20m_R60m_bands_row,0.324,0.516,0.0,0.14,0.118,0.0,B01-B02-B03-B04-B05-B06-B07-B8A-B11-B12-B09,som
+props_ex_som_row,0.148,0.452,0.0,0.157,0.126,0.0,elevation-moisture-temp,som
+all_ex_som_row,0.401,0.678,0.0,0.132,0.097,0.0,B01-B02-B03-B04-B05-B06-B07-B08-B8A-B09-B11-B12-elevation-moisture-temp,som
